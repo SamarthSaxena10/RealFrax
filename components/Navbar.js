@@ -154,12 +154,12 @@ const ContentSidebar = ({ toggleMenu, handleConnectWallet, account }) => {
           Home
         </a>
       </Link>
-      <Link href="http://localhost:3001/deposit-nft">
+      <Link href="https://fractionalize-nft.vercel.app/deposit-nft">
         <a onClick={toggleMenu} className="mb-3 sm:mb-0 ml-0 sm:ml-7">
           Deposit NFT
         </a>
       </Link>
-      <Link href="http://localhost:3001/fraction">
+      <Link href="https://fractionalize-nft.vercel.app/fraction">
         <a
           onClick={toggleMenu}
           className="mb-3 sm:mb-0 ml-0 sm:ml-7 mr-0 sm:mr-7"
@@ -167,7 +167,7 @@ const ContentSidebar = ({ toggleMenu, handleConnectWallet, account }) => {
           Fractionalize NFT
         </a>
       </Link>
-      <Link href="http://localhost:3001/distribute">
+      <Link href="https://fractionalize-nft.vercel.app/distribute">
         <a
           onClick={toggleMenu}
           className="mb-3 sm:mb-0 ml-0 sm:ml-7 mr-0 sm:mr-7"
@@ -175,7 +175,7 @@ const ContentSidebar = ({ toggleMenu, handleConnectWallet, account }) => {
           Distribute
         </a>
       </Link>
-      <Link href="http://localhost:3001/withdraw">
+      <Link href="https://fractionalize-nft.vercel.app/withdraw">
         <a
           onClick={toggleMenu}
           className="mb-3 sm:mb-0 ml-0 sm:ml-7 mr-0 sm:mr-7"
@@ -183,7 +183,7 @@ const ContentSidebar = ({ toggleMenu, handleConnectWallet, account }) => {
           Withdraw NFT
         </a>
       </Link>
-      <Link href="http://localhost:3001/claim">
+      <Link href="https://fractionalize-nft.vercel.app/claim">
         <a
           onClick={toggleMenu}
           className="mb-3 sm:mb-0 ml-0 sm:ml-7 mr-0 sm:mr-7"
